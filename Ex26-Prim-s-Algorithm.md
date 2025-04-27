@@ -30,10 +30,10 @@ To write a C program to implement Prim's Algorithm for finding Total Cost of tre
 
 ## Program:
 ```
-/*
 Program to implement Prim's Algorithm
 Developed by: Priyanka K
 RegisterNumber: 212223230162
+
 #include<stdio.h>
 #include<stdlib.h>
  
